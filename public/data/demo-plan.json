@@ -1,0 +1,90 @@
+{
+  "version": "2026-04-30+2024-10-31",
+  "meals": {
+    "breakfast": [
+      {
+        "fdcId": 2708489,
+        "name": "Oats, raw",
+        "portionDescription": "50 g",
+        "gramWeight": 50,
+        "servings": 1
+      },
+      {
+        "fdcId": 1105073,
+        "name": "Bananas, overripe, raw",
+        "portionDescription": "1 Peeled",
+        "gramWeight": 110,
+        "servings": 1
+      },
+      {
+        "fdcId": 2705386,
+        "name": "Milk, reduced fat (2%)",
+        "portionDescription": "1 cup",
+        "gramWeight": 244,
+        "servings": 1
+      }
+    ],
+    "lunch": [
+      {
+        "fdcId": 331960,
+        "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+        "portionDescription": "120 g",
+        "gramWeight": 120,
+        "servings": 1
+      },
+      {
+        "fdcId": 2708414,
+        "name": "Rice, brown, cooked, no added fat",
+        "portionDescription": "1 cup, cooked",
+        "gramWeight": 195,
+        "servings": 1
+      },
+      {
+        "fdcId": 2709645,
+        "name": "Broccoli, fresh, cooked, no added fat",
+        "portionDescription": "1 cup",
+        "gramWeight": 155,
+        "servings": 1
+      }
+    ],
+    "dinner": [
+      {
+        "fdcId": 2706286,
+        "name": "Fish, salmon, baked or broiled",
+        "portionDescription": "120 g",
+        "gramWeight": 120,
+        "servings": 1
+      },
+      {
+        "fdcId": 2709699,
+        "name": "Sweet potato, baked, no added fat",
+        "portionDescription": "1 medium",
+        "gramWeight": 150,
+        "servings": 1
+      },
+      {
+        "fdcId": 2709615,
+        "name": "Spinach, fresh, cooked, no added fat",
+        "portionDescription": "1 cup",
+        "gramWeight": 180,
+        "servings": 1
+      }
+    ],
+    "snacks": [
+      {
+        "fdcId": 2346393,
+        "name": "Nuts, almonds, whole, raw",
+        "portionDescription": "28 g",
+        "gramWeight": 28,
+        "servings": 1
+      },
+      {
+        "fdcId": 1750340,
+        "name": "Apples, fuji, with skin, raw",
+        "portionDescription": "1 RACC",
+        "gramWeight": 140,
+        "servings": 1
+      }
+    ]
+  }
+}
